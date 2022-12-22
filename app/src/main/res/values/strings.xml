@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bill</string>
+    <string name="btn_save">保 存</string>
+    <string name="tv_amount">账单金额：</string>
+    <string name="unit">单位（元）</string>
+    <string name="dateOfBill">账单日期：</string>
+    <string name="typeOfBill">账单类型：</string>
+    <string name="income">收入</string>
+    <string name="cost">支出</string>
+    <string name="Item_Description">事项说明：</string>
+    <string name="instructions">请填写说明内容</string>
+    <string name="title_home">我的</string>
+    <string name="title_dashboard">账单</string>
+
+    <string name="app_version">1.0.1</string>
+    <string name="button_msg">登录</string>
+    <string name="username_hint">请输入账号</string>
+    <string name="password_hint">请输入密码</string>
+    <string name="icon_msg">图标</string>
+    <string name="forget">忘记密码</string>
+    <string name="register">注册账号</string>
+    <string name="title_add">添加</string>
+    <string name="launch">splash</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="local_use">离线使用</string>
+</resources>
